@@ -1,12 +1,3 @@
-# M8SBC-486 PCB
+크기가 너무 커서 압축파일로 올립니다.
+PCB로 가면 아웃풋이 있고 아웃풋에 가면 homebrew486Bcu압축파일이 있는데 그대로 캐드나 온라인 거버 뷰어에 올리시면 볼수 있습니다
 
-M8SBC-486 KiCad 9.0 schematic. Current revision: 1.01
-
-Used fonts: Ac437 IBM VGA 8x16 and URW Gothic
-
-## Acknowledgements
-
-- 486 Socket symbol & footprint: [ciprian-stingu/KiCad-486-CPU-socket](https://github.com/ciprian-stingu/Kicad-486-CPU-socket)
-- Mini DIN-6 connector with shielding footprint: [4x1md/kicad_libraries](https://github.com/4x1md/kicad_libraries)
-- 16-bit ISA slot footprint: [the retro web / Aries-1](https://gitlab.com/ultimateretro/aries-1/)
-- [PCBWay](https://www.pcbway.com/) for manufacturing boards!
